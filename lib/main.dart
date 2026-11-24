@@ -323,6 +323,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
               ),
 
+              // Просмотр или редактирование заметки
               Expanded(
                 child: Container(
                   height: double.infinity,

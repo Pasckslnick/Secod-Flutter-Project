@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "cmake.sourceDirectory": "C:/PROJECTS/flutter_application_2_1/windows"
+=======
+    "cmake.sourceDirectory": "C:/PROJECTS/flutter_application_2/windows"
+>>>>>>> 4ef1f93c583c1dcd92e65394a80c73224be9a26f
 }

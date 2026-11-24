@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: flutter_application_2_1
+=======
+name: flutter_application_2
+>>>>>>> 4ef1f93c583c1dcd92e65394a80c73224be9a26f
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -30,7 +34,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
   flutter_bloc: ^9.1.1
+=======
+>>>>>>> 4ef1f93c583c1dcd92e65394a80c73224be9a26f
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
